@@ -12,8 +12,6 @@ A Python-based packet sniffer developed using the Scapy library to capture and a
 ### Task 2: Phishing Awareness Training
 An awareness project that explains phishing attacks, their different types, warning signs, and preventive measures to help users identify and avoid online scams.
 
-### Task 3: Secure Coding Review
-A security-focused project that reviews source code to identify common vulnerabilities and demonstrates secure coding practices to improve software security.
 
 ## Technologies Used
 
